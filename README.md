@@ -1,2 +1,2 @@
 # hello-world
-repositry created to learn and share
+repository created to learn and share
